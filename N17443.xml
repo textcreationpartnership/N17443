@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022563_0000_0FB956291327E670"/>
-            <pb facs="tcp:022563_0001_0FB9562D21D2F368" rendition="simple:additions"/>
+            <pb facs="unknown:022563_0000_0FB956291327E670"/>
+            <pb facs="unknown:022563_0001_0FB9562D21D2F368"
+                rendition="simple:additions"/>
             <p>CONCISE OBSERVATIONS ON THE NATURE OF OUR COMMON FOOD, SO FAR AS IT TENDS TO PROMOTE OR INJURE HEALTH; WITH REMARKS ON
 <list>
                   <item>WATER,</item>
@@ -144,7 +145,7 @@
             <p>—LONDON: PRINTED— NEW-YORK: RE-PRINTED BY T. AND J. SWORDS, FOR BERRY AND ROGERS, HANOVER-SQUARE. M, DCC, XC.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:022563_0002_0FB9562E52CD4738"/>
+            <pb facs="unknown:022563_0002_0FB9562E52CD4738"/>
             <head>BERRY AND ROGERS, <hi>No. 35,</hi> Hanover-Square, directly opposite the Bank, HAVE FOR SALE,</head>
             <p>A NEW and elegant assortment of plated buckles, men's fashionable round and cock'd hats, coloured and white patent silk stockings, patent silk and cotton do. ladies fine cotton hose, fans, sliders for ladies hair, fancy waistcoats, gold and silver lace, gold and silver spangles, with thread for tambour work; feathers of different co<g ref="char:EOLhyphen"/>lours, ladies beaver hats, jewellery, plated and japanned ware, knives and forks, mahogany knife-cases, penknives, scissars, cork screws, razors, pocket and ass-skin books, flutes, guitars, fifes, with music for the same, cake black<g ref="char:EOLhyphen"/>ing, cloth and shoe brushes, backgammon-tables, chess boards and men, billiard-balls, dice, battledores and shuttle-cocks, playing and message cards, Middleton's black lead pencils, spectacles, mathematical instruments, gloves, canes, fiddle-strings, sealing-wax, best quality; whips, spurs, boot garters, wax tapers, Reeve's patent colours, glazier's diamonds, hair-ribbon, combs, gold and silver leaf, tooth brushes, guns, pistols, swords, pa<g ref="char:EOLhyphen"/>tent shot, battle gun-powder, bird cages, perfumery, surveying compasses, travelling do<g ref="char:punc">▪</g> chains for surveyors, umbrellas, bathing-caps bandoes, curling and pinch<g ref="char:EOLhyphen"/>ing tongs, with a variety of other articles.</p>
             <div type="list_of_medicines">
@@ -153,18 +154,18 @@
             </div>
          </div>
          <div type="preface">
-            <pb facs="tcp:022563_0003_0FB9563090F39980"/>
+            <pb facs="unknown:022563_0003_0FB9563090F39980"/>
             <head>PREFACE.</head>
             <p>THE following pages were compiled that the Valetudinarian might exercise his reason in the choice of his aliment, or food, when he has not an opportunity of consulting his Physician or Apothecary.</p>
             <p>Many people, who are ailing, eat and drink improper things, from a want of knowing the nature and properties of what they take: to obviate this inconvenience, the different qualities, &amp;c. of our common food, are here pointed out, so far as their effects relate to the animal oeconomy.</p>
             <p>By consulting this little Treatise, every one may know what is good or bad for his constitution.</p>
             <p>The <hi>Valetudinarian</hi> will find it very useful to refer to, and he who enjoys <hi>good health,</hi> may learn to preserve it.</p>
             <p>
-               <pb n="iv" facs="tcp:022563_0004_0FB9563B5ADA67A8"/>The compiler has endeavoured to be as <hi>concise and useful</hi> as possible: for large, volu<g ref="char:EOLhyphen"/>minous works, which treat chymically and scientifically upon Diet, are frequently too abstruse, but little read, and as little under<g ref="char:EOLhyphen"/>stood by the generality of readers. The dif<g ref="char:EOLhyphen"/>ferent subjects are here treated in a way simple and intelligible to every capacity.</p>
+               <pb n="iv" facs="unknown:022563_0004_0FB9563B5ADA67A8"/>The compiler has endeavoured to be as <hi>concise and useful</hi> as possible: for large, volu<g ref="char:EOLhyphen"/>minous works, which treat chymically and scientifically upon Diet, are frequently too abstruse, but little read, and as little under<g ref="char:EOLhyphen"/>stood by the generality of readers. The dif<g ref="char:EOLhyphen"/>ferent subjects are here treated in a way simple and intelligible to every capacity.</p>
             <p>The compiler is well aware that he lays open to the criticism of the world; but hopes, that the <hi>purity of his intentions</hi> will secure him from the censures which <hi>otherwise</hi> his <hi>imper<g ref="char:EOLhyphen"/>fections</hi> might occasion; and however the world may condemn the <hi>manner</hi> of his com<g ref="char:EOLhyphen"/>pilation, he trusts there will be <hi>few</hi> found to <hi>disapprove</hi> the <hi>matter of it,</hi> when he informs them, that it is founded upon the authority of a <hi>Cullen,</hi> a <hi>Buchan,</hi> &amp;c. men whose know<g ref="char:EOLhyphen"/>ledge and abilities have never been disputed.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:022563_0005_0FB9563E997EE6B8"/>
+            <pb facs="unknown:022563_0005_0FB9563E997EE6B8"/>
             <head>CONTENTS.</head>
             <list>
                <item>GENERAL Rules, &amp;c. <hi>Page. 7</hi>
@@ -270,7 +271,7 @@
                <item>Pears, <hi>ib.</hi>
                </item>
                <item>
-                  <pb n="vi" facs="tcp:022563_0006_0FB9563F94A70C60"/>Mulberries, Strawber<g ref="char:EOLhyphen"/>ries and Rasberries, <hi>Page. 26</hi>
+                  <pb n="vi" facs="unknown:022563_0006_0FB9563F94A70C60"/>Mulberries, Strawber<g ref="char:EOLhyphen"/>ries and Rasberries, <hi>Page. 26</hi>
                </item>
                <item>Raisins, <hi>ib.</hi>
                </item>
@@ -361,7 +362,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:022563_0007_0FB95641D507A6D8"/>
+            <pb facs="unknown:022563_0007_0FB95641D507A6D8"/>
             <head>Concise Observations ON THE NATURE OF OUR COMMON FOOD, <hi>&amp;c.</hi>
             </head>
             <div type="rules">
@@ -373,23 +374,23 @@
                <p>Weakly people should eat <hi>little</hi> and <hi>often,</hi> as, by <hi>long</hi> fasting, weak stomachs are apt to be oppressed by <hi>wind:</hi> whenever such people find an appetite for food, they should <hi>indulge</hi> it by <hi>eating</hi> moderately.</p>
                <p>Drinking <hi>little</hi> at a time, and <hi>often,</hi> is most wholesome to promote <hi>digestion:</hi> large and copious draughts distend the stomach, and pall the appetite. If a person takes a large draught of water, or any other small liquor, just before he eats, it will generally spoil the appetite.</p>
                <p>
-                  <pb n="8" facs="tcp:022563_0008_0FB956444C46F990"/>Drinking <hi>cold</hi> beer after <hi>hot soup</hi> is perni<g ref="char:EOLhyphen"/>cious, as it generates <hi>wind,</hi> and hurts the tone of the stomach.</p>
+                  <pb n="8" facs="unknown:022563_0008_0FB956444C46F990"/>Drinking <hi>cold</hi> beer after <hi>hot soup</hi> is perni<g ref="char:EOLhyphen"/>cious, as it generates <hi>wind,</hi> and hurts the tone of the stomach.</p>
                <p>Strong drinks of every kind, as is well known, are very hurtful to the stomach, nerves, and digestive faculties; but, when carried to excess, become a poison to the body, and in the event destroy it. Even the faculties of the mind fall a victim to their fatal effects.</p>
                <p>Those who are subject to <hi>bilious complaints</hi> should avoid all unripe fruits, cucumbers, new liquors, bad wines, and bad spirits, and every thing which is flatulent or <hi>windy:</hi> their <hi>food</hi> should be <hi>light</hi> and <hi>simple</hi>; they should <hi>never</hi> mix <hi>too many</hi> things together upon the stomach at <hi>any meal whatever:</hi> their <hi>drink</hi> should be <hi>moderate, nourishing,</hi> but <hi>not heat<g ref="char:EOLhyphen"/>ing:</hi> and <hi>above all things,</hi> they should pay particular attention to <hi>keep the body open.</hi>
                </p>
                <p>Dr. Cullen very justly observes, nothing affects the <hi>mind</hi> more than the state of the <hi>stomach,</hi> and nothing draws the stomach into sympathy, more than <hi>affections</hi> of the <hi>mind:</hi> the stomach has a very general consent with the whole system. Hence we see an attention to diet, &amp;c. is of the utmost importance, as the state of the stomach (consequently health) in a great measure depends upon it.</p>
                <p>
-                  <pb n="9" facs="tcp:022563_0009_0FB9564596498D18"/>Those who have weak stomachs, or are troubled with <hi>indigestion,</hi> should observe nearly the same rules as those which are laid down for <hi>bilious</hi> constitutions; that is, they should pay a <hi>more than ordinary</hi> attention to their <hi>diet:</hi> they should eat <hi>little and often,</hi> and then of <hi>one</hi> thing only at a <hi>time.</hi> It is the <hi>improper mixture</hi> of <hi>different things</hi> which lays the foun<g ref="char:EOLhyphen"/>dation for <hi>variety</hi> of diseases; for the <hi>stomach</hi> being <hi>weak,</hi> is <hi>not</hi> able to assimilate or <hi>unite</hi> together such an <hi>heterogeneous mass</hi> as arises from a mixture of things <hi>opposite</hi> in their <hi>qua<g ref="char:EOLhyphen"/>lities.</hi> Every thing should be <hi>avoided</hi> which is <hi>flatulent,</hi> or in its nature <hi>hard</hi> of digestion. New liquors, thick beer, bad wines and spi<g ref="char:EOLhyphen"/>rits, unripe fruits, pickles, rich sauces, soups, &amp;c. (as was observed) should be avoided, as inimical to the relaxed and weakly stomach.</p>
+                  <pb n="9" facs="unknown:022563_0009_0FB9564596498D18"/>Those who have weak stomachs, or are troubled with <hi>indigestion,</hi> should observe nearly the same rules as those which are laid down for <hi>bilious</hi> constitutions; that is, they should pay a <hi>more than ordinary</hi> attention to their <hi>diet:</hi> they should eat <hi>little and often,</hi> and then of <hi>one</hi> thing only at a <hi>time.</hi> It is the <hi>improper mixture</hi> of <hi>different things</hi> which lays the foun<g ref="char:EOLhyphen"/>dation for <hi>variety</hi> of diseases; for the <hi>stomach</hi> being <hi>weak,</hi> is <hi>not</hi> able to assimilate or <hi>unite</hi> together such an <hi>heterogeneous mass</hi> as arises from a mixture of things <hi>opposite</hi> in their <hi>qua<g ref="char:EOLhyphen"/>lities.</hi> Every thing should be <hi>avoided</hi> which is <hi>flatulent,</hi> or in its nature <hi>hard</hi> of digestion. New liquors, thick beer, bad wines and spi<g ref="char:EOLhyphen"/>rits, unripe fruits, pickles, rich sauces, soups, &amp;c. (as was observed) should be avoided, as inimical to the relaxed and weakly stomach.</p>
                <p>Intemperance and excess, both in regard to eating and drinking, should be avoided as the <hi>parent</hi> of indigestion: on the contrary, <hi>exercise,</hi> (but not too soon after meals, as it would disturb digestion) and every <hi>diversion,</hi> which does not fatigue, are particularly useful.</p>
                <p>Light suppers, and early rising, are of the utmost consequence to those who are troubled with indigestion, for reasons too obvious to mention.</p>
                <p>One thing I must not omit, which is ge<g ref="char:EOLhyphen"/>nerally practised, consequently its ill effects
-<pb n="10" facs="tcp:022563_0010_0FB95647DF6D8458"/>
+<pb n="10" facs="unknown:022563_0010_0FB95647DF6D8458"/>
 are little thought of; that is, eating custards, tarts, pies, almonds, walnuts, nuts, cream, &amp;c. directly after dinner upon a full stomach; this is a very unwholesome habit, for the <hi>stomach</hi> having already received sufficient food for the nourishment of the body, and probably as much as it can well digest, the <hi>additional</hi> quantity overloads the stomach, creates a fever, and becomes prejudicial to the constitution.</p>
                <p>I am of opinion, that the same things, eaten upon an empty stomach, would be of no prejudice at all; surely, in this case, it is the <hi>quantity,</hi> more than the <hi>quality,</hi> which does the mischief.</p>
                <p>Whenever the stomach is employed in di<g ref="char:EOLhyphen"/>gesting our food, it seems to be an established law of the animal oeconomy, that there is <hi>more</hi> or <hi>less degree of fever</hi> excited during the time of digestion; necessary, indeed, in <hi>some degree,</hi> as Cullen observes; but when it pro<g ref="char:EOLhyphen"/>ceeds to a <hi>noxious</hi> one, that is, too high, we ought to change our diet.</p>
                <p>We should always <hi>chew</hi> our food well, as by that means it will digest much easier upon the stomach: indeed, nature seems to have provided <hi>teeth</hi> chiefly for that purpose.</p>
                <p>Keeping the <hi>stomach</hi> and <hi>bowels</hi> warm, by a flannel waistcoat, or otherwise, is very wholesome, and proper for those who are
-<pb n="11" facs="tcp:022563_0011_0FB9564BE21E2568"/>
+<pb n="11" facs="unknown:022563_0011_0FB9564BE21E2568"/>
 subject to complaints of those parts, particu<g ref="char:EOLhyphen"/>larly in the winter time.</p>
                <p>Having premised these few general Rules, I shall now proceed to some concise Observa<g ref="char:EOLhyphen"/>tions on the nature and properties of our common food, so far as they relate to the animal oeconomy.</p>
             </div>
@@ -400,7 +401,7 @@ subject to complaints of those parts, particu<g ref="char:EOLhyphen"/>larly in t
                   <hi>Water,</hi> as a diluent, is wholesome; it pro<g ref="char:EOLhyphen"/>motes <hi>digestion,</hi> and allays thirst, perhaps more agreeably than any liquor whatever; this daily experience testifies, and to have it <hi>good</hi> is of the utmost importance.</p>
                <p>It is well known, even among the common people, that there is no means more effectual in procuring a <hi>sweat,</hi> than drinking cold water.</p>
                <p>In simple colds, from obstructed perspira<g ref="char:EOLhyphen"/>tion, a <hi>pint of cold water,</hi> drank immediately upon <hi>going to bed,</hi> is, among the common people, a very usual, and often successful remedy. In these cases, it acts by <hi>sweat,</hi> and relieves the body. But as there are ways of
-<pb n="12" facs="tcp:022563_0012_0FB9564D10FDEE08"/>
+<pb n="12" facs="unknown:022563_0012_0FB9564D10FDEE08"/>
 exciting <hi>sweat</hi> with less <hi>hazard</hi> of mischief, a <hi>prudent man</hi> would <hi>prefer</hi> them. For it should be remembered, that it is very pre<g ref="char:EOLhyphen"/>judicial, and may be attended with very ill consequences, if drank in inflammatory fe<g ref="char:EOLhyphen"/>vers, as the quinsey, or pleurisy, &amp;c.</p>
                <p>I have no doubt but the <hi>poor,</hi> who fre<g ref="char:EOLhyphen"/>quently can get nothing else, are oftentimes relieved in fevers by draughts of cold water.</p>
                <p>Cold water will often relieve a <hi>vomiting,</hi> where there is a great want of determination (as it is called) to the skin. This I mention from repeated experience, as well as from the testimony of others.</p>
@@ -411,7 +412,7 @@ exciting <hi>sweat</hi> with less <hi>hazard</hi> of mischief, a <hi>prudent man
                <p>As a bath, water conduces both to health and pleasure.</p>
             </div>
             <div n="bread" type="foodstuff">
-               <pb n="13" facs="tcp:022563_0013_0FB9564E92D987F0"/>
+               <pb n="13" facs="unknown:022563_0013_0FB9564E92D987F0"/>
                <head>On BREAD, PUDDING, <hi>&amp;c.</hi>
                </head>
                <p>I SHALL confine myself simply to its use as <hi>food.</hi>
@@ -425,7 +426,7 @@ exciting <hi>sweat</hi> with less <hi>hazard</hi> of mischief, a <hi>prudent man
                   <hi>Stale</hi> bread is more easy of digestion than <hi>new</hi>; when <hi>toasted,</hi> it is lighter and more wholesome.</p>
                <p>Home-made bread (as it is called) is most wholesome, when properly prepared, because it is not adulterated. There is no doubt but bakers use allum, or some other ingredient, to make their bread <hi>white,</hi> to please the eye of their customers: but to children's tender bowels such bread is very pernicious; biscuit-powder, as being less flatulent, is more proper.</p>
                <p>I cannot by any means agree with Dr. Ca<g ref="char:EOLhyphen"/>dogan, that plain, <hi>simple bread, well fermented,</hi> can be <hi>unwholesome:</hi> there is no doubt but that it is of the greatest <hi>use,</hi> when mixt with <hi>animal</hi> food in our <hi>ordinary meals.</hi> Indeed, <hi>bread</hi> seems designed by <hi>Providence</hi> for <hi>food,</hi> from the <hi>earliest</hi> ages of <hi>antiquity,</hi> either lea<g ref="char:EOLhyphen"/>vened
-<pb n="14" facs="tcp:022563_0014_0FB956510754A9C8"/>
+<pb n="14" facs="unknown:022563_0014_0FB956510754A9C8"/>
 or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <hi>peasants,</hi> and their <hi>children,</hi> whose diet, in these dear and trying times, is <hi>almost bread alone?</hi> To see the <hi>truth</hi> of this, we need only to observe the <hi>children</hi> of the <hi>villages,</hi> as we pass along: their <hi>ruddy looks,</hi> and <hi>athletic forms,</hi> plainly tell us, that <hi>nature</hi> and <hi>simple diet</hi> point the way to <hi>health.</hi>
                </p>
                <p>All pastry, pye-crust, &amp;c. are very un<g ref="char:EOLhyphen"/>wholesome, hard of digestion, and apt to produce heart-burn, &amp;c.</p>
@@ -436,7 +437,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
                <p>But, in fact, there is no laying down a ge<g ref="char:EOLhyphen"/>neral rule in this case; as some stomachs di<g ref="char:EOLhyphen"/>gest <hi>puddings</hi> best; others, <hi>dumplings</hi>; and some few, <hi>pancakes.</hi> As an instance of this, a particular <hi>friend</hi> of mine, whose stomach is naturally <hi>weak,</hi> can digest nothing but <hi>hard dumplings:</hi> either <hi>light puddings</hi> or <hi>meat</hi> create violent pain in the stomach, and he has no ease till he is relieved by vomiting: he has several times attempted to <hi>change</hi> his <hi>diet,</hi> but was sure to suffer from it.</p>
             </div>
             <div n="meat" type="foodstuff">
-               <pb n="15" facs="tcp:022563_0015_0FB9565313E381C8"/>
+               <pb n="15" facs="unknown:022563_0015_0FB9565313E381C8"/>
                <head>Of MEAT.</head>
                <div type="meat">
                   <head>BEEF, VEAL, MUTTON, LAMB, <hi>&amp;c.</hi>
@@ -462,7 +463,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
                   <p>Is hard of digestion, and, contrary to the vulgar opinion, that is most wholesome which is not hunted; owing to the oily and nutri<g ref="char:EOLhyphen"/>tious parts of the animal being dissipated by a long chace.</p>
                </div>
                <div type="meat">
-                  <pb n="16" facs="tcp:022563_0016_0FB95657EE473E88"/>
+                  <pb n="16" facs="unknown:022563_0016_0FB95657EE473E88"/>
                   <head>RABBIT</head>
                   <p>Is one of the lightest of the <hi>white</hi> meats.</p>
                </div>
@@ -490,7 +491,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
                   <p>Are both difficult of digestion, and unfit for weak stomachs. The seasoning and gravy which are generally eaten with them, make them hot and feverish.</p>
                </div>
                <div type="fowl">
-                  <pb n="17" facs="tcp:022563_0017_0FB9565AEA23C7E0"/>
+                  <pb n="17" facs="unknown:022563_0017_0FB9565AEA23C7E0"/>
                   <head>THE WILD-DUCK</head>
                   <p>Is easier of digestion than the <hi>tame.</hi>
                   </p>
@@ -513,7 +514,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
                   <p>The <hi>longer meat</hi> is kept, the <hi>sooner</hi> it <hi>di<g ref="char:EOLhyphen"/>gests:</hi> this, in some measure, accounts for <hi>venison</hi> being more easily digested than any other meat, it being usually kept a longer time; by which means its fibres are more easily broken down by the powers of the stomach.</p>
                </div>
                <div n="meat jellies" type="foodstuff">
-                  <pb n="18" facs="tcp:022563_0018_0FB9565F478F39F8"/>
+                  <pb n="18" facs="unknown:022563_0018_0FB9565F478F39F8"/>
                   <head>JELLIES</head>
                   <p>Made from meat, being of a <hi>viscid</hi> nature, are not so easy of digestion as is generally imagined.</p>
                </div>
@@ -535,7 +536,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
                   <p>Are nourishing, and much more easy of di<g ref="char:EOLhyphen"/>gestion than salmon.</p>
                </div>
                <div type="fish">
-                  <pb n="19" facs="tcp:022563_0019_0FB956624BCE52D8"/>
+                  <pb n="19" facs="unknown:022563_0019_0FB956624BCE52D8"/>
                   <head>MACKEREL</head>
                   <p>Are drier, consequently less nutritious.</p>
                </div>
@@ -573,7 +574,7 @@ or unleavened.—I would ask, who are more <hi>hardy and healthy</hi> than our <
             <div n="eggs" type="foodstuff">
                <head>EGGS,</head>
                <p>As well as oysters, are most wholesome <hi>raw.</hi> They contain a larger proportion of pure
-<pb n="20" facs="tcp:022563_0020_0FB95665D84CB018"/>
+<pb n="20" facs="unknown:022563_0020_0FB95665D84CB018"/>
 nourishment than any other food, but are not easy of digestion. They promote costive<g ref="char:EOLhyphen"/>ness. The <hi>white,</hi> when boiled, is the part most difficult of digestion.</p>
             </div>
             <div n="milk products" type="foodstuff">
@@ -585,7 +586,7 @@ nourishment than any other food, but are not easy of digestion. They promote cos
                <p>When milk is too <hi>heavy</hi> for a <hi>weak</hi> sto<g ref="char:EOLhyphen"/>mach, it is much more wholesome to <hi>dilute</hi> it with <hi>water,</hi> than to <hi>skim</hi> it.</p>
                <p>Milk diet is very proper in <hi>hectic</hi> constitu<g ref="char:EOLhyphen"/>tions: if duly persevered in, it will correct, or, as it were, change the whole mass of blood. It is well known that <hi>gouty people,</hi> who have had resolution to persevere in the use of milk, have experienced happy effects from it.</p>
                <p>
-                  <pb n="21" facs="tcp:022563_0021_0FB95668123112F0"/>
+                  <pb n="21" facs="unknown:022563_0021_0FB95668123112F0"/>
                   <hi>Boiled milk</hi> is more <hi>costive</hi> than <hi>raw.</hi>
                </p>
                <div type="milk_product">
@@ -611,7 +612,7 @@ nourishment than any other food, but are not easy of digestion. They promote cos
                      <hi>Sugar</hi> makes milk turn more <hi>acid</hi> upon <hi>weak</hi> stomachs; but as it prevents the spon<g ref="char:EOLhyphen"/>taneous separation of milk, is proper for convalescents, or those who are recovering from sickness.</p>
                </div>
                <div type="milk_product">
-                  <pb n="22" facs="tcp:022563_0022_0FB9566B190FF460"/>
+                  <pb n="22" facs="unknown:022563_0022_0FB9566B190FF460"/>
                   <head>CREAM,</head>
                   <p>By being too rich, is improper for <hi>weak</hi> sto<g ref="char:EOLhyphen"/>machs, liable to turn rancid, and difficult of digestion. Upon <hi>strong stomachs,</hi> which can digest it, it is very nourishing.</p>
                   <p>It is an unwholesome custom to eat <hi>cream</hi> or <hi>milk</hi> with apple-pies, strawberries, &amp;c. &amp;c. directly after dinner, if you mean to drink <hi>wine</hi>; for the wine ferments, coagulates the cream, and makes the whole mass hard of digestion; and upon weak stomachs, such a mixture will promote sickness, vomiting, &amp;c. This I myself have experienced more than once.</p>
@@ -619,7 +620,7 @@ nourishment than any other food, but are not easy of digestion. They promote cos
                   <p>Instead of rum and milk, use the following, an it is much more wholesome. Take a large tea-spoonful of <hi>common bohea tea,</hi> with about three lumps of sugar; put them into a bason, and pour upon them a <hi>quarter of a pint</hi> of <hi>boiling water</hi>; cover it over, and let it stand all night; in the morning pour it off clear, and add about a quarter of a pint of <hi>new milk:</hi> drink it fasting, an hour or two before breakfast.</p>
                </div>
                <div type="milk_product">
-                  <pb n="23" facs="tcp:022563_0023_0FB9566C95DB2760"/>
+                  <pb n="23" facs="unknown:022563_0023_0FB9566C95DB2760"/>
                   <head>BUTTER,</head>
                   <p>As partaking more or less of the qualities of <hi>oil,</hi> is liable to turn rancid, not easily assimi<g ref="char:EOLhyphen"/>lated, or digested upon the stomach, conse<g ref="char:EOLhyphen"/>quently is apt to produce disorders of the first passages, to foul the blood, and of course to throw out eruptions of the skin.</p>
                </div>
@@ -637,7 +638,7 @@ nourishment than any other food, but are not easy of digestion. They promote cos
                      <hi>Salt</hi> alone has not yet been known to pro<g ref="char:EOLhyphen"/>duce scurvy; it certainly prevents coagulation, and in a moderate degree is very wholesome.</p>
                   <p>Salted meats are harder of digestion than fresh, and should be eaten with plenty of vegetables.</p>
                   <p>
-                     <pb n="24" facs="tcp:022563_0024_0FB9566E2D3B6820"/>The scurvy is a natural consequence of our way of living wholly upon <hi>animal</hi> food, and also of drinking so much strong liquors.</p>
+                     <pb n="24" facs="unknown:022563_0024_0FB9566E2D3B6820"/>The scurvy is a natural consequence of our way of living wholly upon <hi>animal</hi> food, and also of drinking so much strong liquors.</p>
                </div>
                <div type="additive">
                   <head>SUGAR</head>
@@ -654,7 +655,7 @@ nourishment than any other food, but are not easy of digestion. They promote cos
                   <head>VINEGAR.</head>
                   <p>Its moderate use is wholesome in hot, bilious constitutions, and wherever there is a ten<g ref="char:EOLhyphen"/>dency to inflammation or putrefaction.</p>
                   <p>Drinking large quantities of vinegar, as is frequently practised by those who wish to grow <hi>thin,</hi> is very unwholesome, as it hurts the digestive faculties, and brings on com<g ref="char:EOLhyphen"/>plaints
-<pb n="25" facs="tcp:022563_0025_0FB9566F969BB458"/>
+<pb n="25" facs="unknown:022563_0025_0FB9566F969BB458"/>
 in consequence, which are not easily removed, particularly in females.</p>
                   <p>Vinegar, as a sauce, gives a grateful taste to our food, stimulates the stomach, and ex<g ref="char:EOLhyphen"/>cites appetite.</p>
                   <p>Mixed with our animal and vegetable food, in our ordinary way of using it, vinegar is wholesome.</p>
@@ -674,7 +675,7 @@ in consequence, which are not easily removed, particularly in females.</p>
                   <p>Are liable to fermentation, cold, viscid, and apt to produce purging, &amp;c.</p>
                </div>
                <div type="fruit">
-                  <pb n="26" facs="tcp:022563_0026_0FB95675041D6010"/>
+                  <pb n="26" facs="unknown:022563_0026_0FB95675041D6010"/>
                   <head>APRICOTS</head>
                   <p>Are a sweeter, richer, and less hurtful fruit than either plumbs or cherries.</p>
                </div>
@@ -705,7 +706,7 @@ are more easy of digestion, as they sink to the bottom of the stomach. Pears hav
                   </p>
                </div>
                <div type="fruit">
-                  <pb n="27" facs="tcp:022563_0027_0FB9567653F9FF98"/>
+                  <pb n="27" facs="unknown:022563_0027_0FB9567653F9FF98"/>
                   <head>PRUNES AND CURRANTS</head>
                   <p>Are nearly alike in their qualities, both be<g ref="char:EOLhyphen"/>ing <hi>gently purgative.</hi>
                   </p>
@@ -732,7 +733,7 @@ are more easy of digestion, as they sink to the bottom of the stomach. Pears hav
             </div>
             <div n="vegetables" type="foodstuff">
                <div type="vegetable">
-                  <pb n="28" facs="tcp:022563_0028_0FB9567AD588CD58"/>
+                  <pb n="28" facs="unknown:022563_0028_0FB9567AD588CD58"/>
                   <head>CUCUMBERS,</head>
                   <p>As being acescent, are very apt to produce flatulency; are hard of digestion, and have even been brought off the stomach after forty-eight hours.</p>
                   <p>Oil and pepper are proper to check their fermentation: and they are more wholesome when eaten with their skin, or peel, (in their early state) as it is <hi>bitter,</hi> and may supply, in some measure, the place of aromatics.</p>
@@ -757,7 +758,7 @@ are more easy of digestion, as they sink to the bottom of the stomach. Pears hav
                   </p>
                </div>
                <div type="vegetable">
-                  <pb n="29" facs="tcp:022563_0029_0FB9567D581D9968"/>
+                  <pb n="29" facs="unknown:022563_0029_0FB9567D581D9968"/>
                   <head>SAGE</head>
                   <p>Has been formerly held in much higher esteem than it is at present: it is wholesome, and said to be a sweetner of the blood.</p>
                </div>
@@ -789,7 +790,7 @@ are more easy of digestion, as they sink to the bottom of the stomach. Pears hav
                   <p>Are nutritious, but flatulent.</p>
                </div>
                <div type="vegetable">
-                  <pb n="30" facs="tcp:022563_0030_0FB95682773E3640"/>
+                  <pb n="30" facs="unknown:022563_0030_0FB95682773E3640"/>
                   <head>LEEKS, ONIONS AND GARLICK</head>
                   <p>Are rather acrid and heating, but used mode<g ref="char:EOLhyphen"/>rately, are harmless to the human body.</p>
                </div>
@@ -820,7 +821,7 @@ are more easy of digestion, as they sink to the bottom of the stomach. Pears hav
                <div type="nut">
                   <head>ALMONDS</head>
                   <p>Are wholesomest without their skins or husks; they are cooling, healing, and cleanse
-<pb n="31" facs="tcp:022563_0031_0FB9568E1A98F9A8"/>
+<pb n="31" facs="unknown:022563_0031_0FB9568E1A98F9A8"/>
 the urinary passages. But Dr. Cullen, whose opinion is scarcely to be controverted, does not allow them to be at <hi>all</hi> wholesome, on account of the <hi>oil</hi> they contain. In <hi>medicine,</hi> they are frequently useful. The <hi>bitter al<g ref="char:EOLhyphen"/>mond</hi> is esteemed <hi>most unwholesome.</hi>
                   </p>
                </div>
@@ -836,7 +837,7 @@ the urinary passages. But Dr. Cullen, whose opinion is scarcely to be controvert
             </div>
             <div n="drink" type="foodstuff">
                <div type="drink">
-                  <pb n="32" facs="tcp:022563_0032_0FB95692F80D5998"/>
+                  <pb n="32" facs="unknown:022563_0032_0FB95692F80D5998"/>
                   <head>COFFEE and TEA.</head>
                   <p>DR. Cullen thinks the assisting digestion, relieving the <hi>stomach</hi> from a load of aliment, from crudities, and from head-achs arising from them, promoting urine, and perhaps perspiration, <hi>may all fairly be attributed to the warm water.</hi>
                   </p>
@@ -853,7 +854,7 @@ the urinary passages. But Dr. Cullen, whose opinion is scarcely to be controvert
                   </p>
                </div>
                <div n="wine" type="drink">
-                  <pb n="33" facs="tcp:022563_0033_0FB9569513B44BD8"/>
+                  <pb n="33" facs="unknown:022563_0033_0FB9569513B44BD8"/>
                   <head>WINE, <hi>&amp;c.</hi>
                   </head>
                   <p>ALL <hi>wines</hi> are in <hi>some</hi> degree <hi>heating</hi> and <hi>inflammatory.</hi>
@@ -876,7 +877,7 @@ the urinary passages. But Dr. Cullen, whose opinion is scarcely to be controvert
                      </p>
                   </div>
                   <div type="wine">
-                     <pb n="34" facs="tcp:022563_0034_0FB95699FB2DBFF0"/>
+                     <pb n="34" facs="unknown:022563_0034_0FB95699FB2DBFF0"/>
                      <head>THE SPANISH AND PORTUGUEZE WINES</head>
                      <p>Have <hi>brandy</hi> in them, consequently are in<g ref="char:EOLhyphen"/>flammatory and heating, and when adulterat<g ref="char:EOLhyphen"/>ed, as they too frequently are, with noxious ingredients, become a <hi>poison</hi> to the consti<g ref="char:EOLhyphen"/>tution.</p>
                   </div>
@@ -893,7 +894,7 @@ the urinary passages. But Dr. Cullen, whose opinion is scarcely to be controvert
                      <p>
                         <hi>Good wine,</hi> mixt with <hi>water,</hi> is better than <hi>beer,</hi> for those whose stomachs are <hi>weak,</hi> &amp;c.</p>
                      <p>The idea that <hi>good eating</hi> requires <hi>good drinking,</hi> is a very <hi>erroneous one</hi>; for <hi>wine,</hi> and all other <hi>strong drinks,</hi> are as hard to di<g ref="char:EOLhyphen"/>gest, &amp;c. as strong food itself. If <hi>food</hi> lies <hi>heavy</hi> upon the stomach, nothing tends to relieve so much as a <hi>draught</hi> of <hi>warm water.
-<pb n="35" facs="tcp:022563_0035_0FB9569BD4665DC8"/>
+<pb n="35" facs="unknown:022563_0035_0FB9569BD4665DC8"/>
 Water</hi> is the original primitive beverage appointed by Nature, and is the most whole<g ref="char:EOLhyphen"/>some of all drinks, as it quickens the appe<g ref="char:EOLhyphen"/>tite, and promotes digestion.</p>
                   </div>
                </div>
@@ -912,7 +913,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                      <p>Is proper when an <hi>acid</hi> quality predominates in the <hi>stomach,</hi> and when persons have <hi>flatu<g ref="char:EOLhyphen"/>lent, griping pains,</hi> in the <hi>stomach</hi> or <hi>bowels: beer</hi> would then disagree, and even <hi>wines,</hi> from their tendency to acidity.</p>
                   </div>
                   <div type="spirits">
-                     <pb n="36" facs="tcp:022563_0036_0FB9569F36DDCE90"/>
+                     <pb n="36" facs="unknown:022563_0036_0FB9569F36DDCE90"/>
                      <head>PUNCH, SHRUB, &amp;c.</head>
                      <p>Are more unwholesome than <hi>wine,</hi> owing to their ingredients promoting fermentation, &amp;c. in the stomach.</p>
                      <p>Cheyne justly observes, <hi>punch,</hi> and all <hi>fer<g ref="char:EOLhyphen"/>menting liquors,</hi> are highly injurious to weakly constitutions, as is evident from those who live in the <hi>West-Indies,</hi> where (from the ne<g ref="char:EOLhyphen"/>cessity of drinking <hi>much,</hi> because of the <hi>vio<g ref="char:EOLhyphen"/>lence</hi> of the <hi>heat,</hi> and from the want of pro<g ref="char:EOLhyphen"/>per liquors there, they are forced to drink <hi>much punch</hi>) they are universally afflicted with palsies, dry belly-achs, cramps, convulsions, &amp;c. To obviate the effects of too free liv<g ref="char:EOLhyphen"/>ing, it is well known that the <hi>Bath water</hi> is the best remedy.</p>
@@ -932,7 +933,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <p>At all times <hi>good beer</hi> is more <hi>salutary</hi> to the <hi>constitution</hi> than <hi>bad wine.</hi>
                   </p>
                   <p>
-                     <pb n="37" facs="tcp:022563_0037_0FB956A2C0CACDF8"/>All <hi>fermented</hi> liquors, which are <hi>too strong,</hi> hurt digestion, &amp;c.</p>
+                     <pb n="37" facs="unknown:022563_0037_0FB956A2C0CACDF8"/>All <hi>fermented</hi> liquors, which are <hi>too strong,</hi> hurt digestion, &amp;c.</p>
                </div>
                <div n="ale" type="drink">
                   <head>YORKSHIRE, NOTTINGHAM, AND OTHER STRONG ALES,</head>
@@ -951,7 +952,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                <p>By taking off the saliva, which is necessary to the system, palls the appetite, and hurts digestion: hence to lean hectic people it is very pernicious.</p>
             </div>
             <div type="conclusion">
-               <pb n="38" facs="tcp:022563_0038_0FB956A415D7B878"/>
+               <pb n="38" facs="unknown:022563_0038_0FB956A415D7B878"/>
                <head>CONCLUSION.</head>
                <p>They who would wish to enjoy health, should avoid luxury and intemperance both in eating and drinking; should eat light suppers, rise early, and use exercise. The great secret of health, consequently of <hi>long life,</hi> consists in keeping the <hi>blood in a proper state</hi>; to do which, nothing tends so much as an attention to what is set forth in these few, and, I hope, not useless pages.</p>
             </div>
@@ -960,7 +961,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:022563_0039_0FB956A650982370"/>
+            <pb facs="unknown:022563_0039_0FB956A650982370"/>
             <head>WINTER EVENINGS AMUSEMENT.</head>
             <div type="list_of_plays">
                <head type="sub">TO BE HAD OF BERRY AND ROGERS, No. 35, Hanover-Square, THE FOLLOWING PLAYS:</head>
@@ -996,7 +997,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>Braganza, do.</item>
                   <item>Busirus, King of Egypt, do.</item>
                   <item>
-                     <pb n="2" facs="tcp:022563_0040_0FB956A7D6377448"/>Bankrupt, Comedy.</item>
+                     <pb n="2" facs="unknown:022563_0040_0FB956A7D6377448"/>Bankrupt, Comedy.</item>
                   <item>Buthrea, Tragedy.</item>
                   <item>Brothers, Comedy.</item>
                   <item>Beggars Opera. </item>
@@ -1036,7 +1037,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>Dragon of Wantley, do.</item>
                   <item>Deuce is in Him, do.</item>
                   <item>
-                     <pb n="3" facs="tcp:022563_0041_0FB956ACCE97FE10"/>Edward and Leonora, Tragedy.</item>
+                     <pb n="3" facs="unknown:022563_0041_0FB956ACCE97FE10"/>Edward and Leonora, Tragedy.</item>
                   <item>Eurydice, do.</item>
                   <item>Earl of Essex, do.</item>
                   <item>Electra, do.</item>
@@ -1076,7 +1077,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>Inkle and Yarico, do.</item>
                   <item>Isabella; or, the Fatal Marriage, Tragedy.</item>
                   <item>
-                     <pb n="4" facs="tcp:022563_0042_0FB956AE8544A5E8"/>Illumination; or, the Glaziers. </item>
+                     <pb n="4" facs="unknown:022563_0042_0FB956AE8544A5E8"/>Illumination; or, the Glaziers. </item>
                   <item>Jealous Wife, Comedy.</item>
                   <item>Jane Gray, Tragedy.</item>
                   <item>Jane Shore, do.</item>
@@ -1117,7 +1118,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>Misterious Husband, do.</item>
                   <item>Merchant of Venice, Comedy.</item>
                   <item>
-                     <pb n="5" facs="tcp:022563_0043_0FB956B1DCEA30F0"/>Much ado about nothing, do.</item>
+                     <pb n="5" facs="unknown:022563_0043_0FB956B1DCEA30F0"/>Much ado about nothing, do.</item>
                   <item>Midsummer Nights Dream, do.</item>
                   <item>Mutual Deception, do.</item>
                   <item>Mirror: or, Harlequin every where. </item>
@@ -1158,7 +1159,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>Strangers at Home. </item>
                   <item>Suspicious Husband. </item>
                   <item>
-                     <pb n="6" facs="tcp:022563_0044_0FB956BCD59C6110"/>Spanish Friar. </item>
+                     <pb n="6" facs="unknown:022563_0044_0FB956BCD59C6110"/>Spanish Friar. </item>
                   <item>She Stoops to Conquer; or, the Mistakes of a Night. </item>
                   <item>Seduction. </item>
                   <item>Spirit of Contradiction. </item>
@@ -1196,7 +1197,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                </list>
             </div>
             <div type="list_of_books">
-               <pb n="7" facs="tcp:022563_0045_0FB956C11BE68460"/>
+               <pb n="7" facs="unknown:022563_0045_0FB956C11BE68460"/>
                <head>BERRY AND ROGERS, No. 35, <hi>Hanover-Square,</hi> Have imported in the last vessels from England, Scotland, and Ireland, An esteemed Collection of BOOKS, On the various <hi>Branches</hi> of <hi>Literature,</hi> Amongst which are the following:</head>
                <list>
                   <item>POSTLETHWAITE's Dictionary of Trade and Commerce, 2 vols. folio.</item>
@@ -1229,7 +1230,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                   <item>— on Mortgages, 8vo.</item>
                   <item>Moore's Navigation, 8vo.</item>
                   <item>
-                     <pb n="8" facs="tcp:022563_0046_0FB956C43B553D50"/>Moore's New Daily Assistant, 8vo.</item>
+                     <pb n="8" facs="unknown:022563_0046_0FB956C43B553D50"/>Moore's New Daily Assistant, 8vo.</item>
                   <item>Priestly's Charts of History and Biography, on rolers.</item>
                   <item>— Lectures on History, 8vo.</item>
                   <item>Langley's Compleat Builder's Assistant, 2 vols. 8vo.</item>
@@ -1269,7 +1270,7 @@ Water</hi> is the original primitive beverage appointed by Nature, and is the mo
                </list>
             </div>
             <div type="list_of_paper_products">
-               <pb n="9" facs="tcp:022563_0047_0FB956C8E9801D70"/>
+               <pb n="9" facs="unknown:022563_0047_0FB956C8E9801D70"/>
                <p>Likewise, STATIONARY of every sort. And A great variety of MUSIC, for the guitar, harpsichord, forte piano, violin and flute; with strings for the guitar and violin. Where also may be had, ALMANACKS for the Year 1791, Wholesale and retail.</p>
             </div>
             <div type="advert_for_book">
